@@ -1,0 +1,309 @@
+ticketId;interventionType;title;createdBy_fullname;category;priority;status;attachmentsCount;createdAt
+2026-07-0006;Demande de service;Toner vide;user1;Imprimante;élevée;résolu;1;2026-07-09T12:40:53.314Z
+2026-07-0005;Demande de service;Demande de déclôture du bon de travail N°30459 // BASE MyCompany;user2;GMAO;élevée;résolu;1;2026-07-09T07:42:43.344Z
+2026-07-0004;Demande de service;REPARATION IMPRIMANT;user3;Imprimante;critique;nouveau;0;2026-07-09T06:59:27.924Z
+2026-07-0003;Demande de service;Problème d'impression dans la version Web de la GMAO;user4;GMAO;élevée;en cours;1;2026-07-09T06:43:25.028Z
+2026-07-0002;Incident;Aucun accès à Internet;user5;Autre;faible;résolu;0;2026-07-08T06:46:08.307Z
+2026-07-0001;Demande de service;Synchro(MyCompany);user6;SAGE;critique;résolu;1;2026-07-01T08:24:57.618Z
+2026-06-0014;Demande de service;Changement N° Fournisseur;user6;SAGE;critique;en cours;1;2026-06-29T09:21:58.889Z
+2026-06-0013;Demande de service;Synchro(MyCompany);user6;SAGE;critique;résolu;1;2026-06-29T08:57:56.144Z
+2026-06-0012;Demande de service;synchro(MyCompany);user6;SAGE;critique;résolu;1;2026-06-29T08:38:33.610Z
+2026-06-0011;Demande de service;SYNCHRO(MyCompany);user6;SAGE;critique;résolu;1;2026-06-27T11:28:34.581Z
+2026-06-0010;Demande de service;PROBLEME SAISIE CASE TVA;user6;SAGE;critique;résolu;3;2026-06-24T12:49:01.577Z
+2026-06-0009;Demande de service;Remplacement toner;user6;Imprimante;critique;résolu;0;2026-06-22T08:49:57.010Z
+2026-06-0008;Demande de service;SYNCHRO (MyCompany);user6;SAGE;critique;annulé;1;2026-06-19T13:15:38.445Z
+2026-06-0007;Demande de service;Changement nom fournisseur (MyCompany);user6;SAGE;élevée;résolu;1;2026-06-18T07:24:23.787Z
+2026-06-0005;Demande de service;SYNCHRO(MyCompany);user6;SAGE;élevée;résolu;1;2026-06-10T14:17:04.236Z
+2026-06-0004;Demande de service;SYNCHRO(MyCompany);user6;SAGE;critique;annulé;1;2026-06-10T14:13:15.296Z
+2026-06-0003;Demande de service;SYNCHRO(MyCompany);user6;SAGE;critique;résolu;1;2026-06-06T12:07:17.096Z
+2026-06-0002;Demande de service;Synchro(MyCompany);user6;SAGE;critique;résolu;1;2026-06-06T08:54:06.183Z
+2026-06-0001;Demande de service;Synchro;user6;SAGE;critique;résolu;1;2026-06-06T08:50:58.337Z
+2026-05-0005;Demande de service;Blocage sur SAGE;user7;SAGE;élevée;résolu;1;2026-05-30T08:41:18.384Z
+2026-05-0004;Demande de service;rapport d'extraction des BT;user8;GMAO;élevée;résolu;0;2026-05-11T15:44:07.667Z
+2026-05-0003;Demande de service;Remplacement Toner;user6;Imprimante;élevée;résolu;0;2026-05-08T13:43:48.032Z
+2026-05-0002;Demande de service;Remplacement Toner Imprimante;user9;Imprimante;élevée;résolu;0;2026-05-08T13:42:41.250Z
+2026-05-0001;Demande de service;Demande d’accès et mise à jour de l’arborescence;user10;GMAO;critique;résolu;0;2026-05-05T14:53:07.452Z
+2026-04-0007;Demande de service;Installation Imprimante;user4;Imprimante;faible;résolu;0;2026-04-29T13:15:07.748Z
+2026-04-0006;Demande de service;Demande d'accès;user6;Accès dossiers - fichiers;faible;résolu;0;2026-04-29T13:13:22.796Z
+2026-04-0005;Demande de service;acces compte outlook;user11;Compte Outlook;élevée;résolu;0;2026-04-23T08:25:22.288Z
+2026-04-0004;Demande de service;Installation de l'application ZebraDesigner  pour étiquetage magasin;user10;Imprimante;moyenne;résolu;0;2026-04-16T08:05:04.345Z
+2026-04-0003;Demande de service;Problème d'accès aux factures services externes sur GMAO;user10;GMAO;élevée;annulé;0;2026-04-07T15:13:24.113Z
+2026-04-0002;Demande de service;Demande d’accès au champ référence constructeur;user2;GMAO;élevée;résolu;1;2026-04-06T12:43:41.638Z
+2026-04-0001;Demande de service;Demande de réapprovisionnement en encre;user10;Imprimante;élevée;résolu;0;2026-04-02T11:56:19.887Z
+2026-03-0011;Demande de service;Demande d'intervention: ERREUR IMPRESSION GRT;user12;Autre;élevée;résolu;1;2026-03-30T08:37:51.114Z
+2026-03-0010;Demande de service;Erreur rapport GMAO;user10;GMAO;élevée;résolu;1;2026-03-27T12:19:01.599Z
+2026-03-0009;Demande de service;DEMANDE D'INTERVENTION : SAGE COMMERCIALE;user12;SAGE;élevée;annulé;1;2026-03-26T12:22:44.115Z
+2026-03-0008;Demande de service;Demande de remplacement batterie PC portable – Bureau Méthode MyCompany (Réf INF 967);user2;Ordinateur (PC - Laptop);moyenne;en cours;1;2026-03-24T10:48:59.686Z
+2026-03-0007;Demande de service;Activation office;user13;Logiciels standards;critique;résolu;0;2026-03-23T13:54:00.622Z
+2026-03-0006;Demande de service;"Problème technique – Bouton ""Imprimer"" inactif sur [GMAO]";user12;GMAO;critique;résolu;0;2026-03-16T07:41:00.543Z
+2026-03-0005;Demande de service;Problème d'export Excel sur la GMAO;user10;GMAO;élevée;résolu;1;2026-03-12T10:33:34.425Z
+2026-03-0004;Demande de service;Ajout dans le groupe Outlook – Département Technique;user14;Compte Outlook;élevée;résolu;0;2026-03-12T06:50:45.158Z
+2026-03-0003;Demande de service;Outlook security alert;user10;Ordinateur (PC - Laptop);faible;résolu;1;2026-03-07T06:42:08.300Z
+2026-03-0002;Incident;Incident Technique JDL - Erreurs Impression (Load Report) et Export (UIB/Virement);user12;Autre;élevée;résolu;2;2026-03-02T09:51:11.337Z
+2026-03-0001;Demande de service;Demande de déclôture du bon de travail N°87220;user2;GMAO;élevée;résolu;1;2026-03-02T08:10:56.647Z
+2026-02-0020;Demande de service;"Demande d'accès au dossier serveur '""Maintenance""";user10;Accès dossiers - fichiers;moyenne;résolu;0;2026-02-28T08:34:07.694Z
+2026-02-0019;Demande de service;Synchronisation des BL;user15;SAGE;faible;résolu;0;2026-02-26T12:34:13.738Z
+2026-02-0018;Demande de service;Activation windows;user13;Ordinateur (PC - Laptop);moyenne;résolu;1;2026-02-26T11:01:20.309Z
+2026-02-0017;Demande de service;Toner vide;user1;Imprimante;moyenne;résolu;0;2026-02-25T13:26:15.528Z
+2026-02-0016;Demande de service;Activation Session Windows;user16;Autre;moyenne;résolu;0;2026-02-25T09:43:17.799Z
+2026-02-0015;Demande de service;Annulation du changement de mot de passe par obligation;user2;Ordinateur (PC - Laptop);faible;résolu;0;2026-02-24T10:09:38.401Z
+2026-02-0014;Demande de service;Problème Profleet;user17;Autre;élevée;résolu;0;2026-02-23T06:48:18.126Z
+2026-02-0013;Demande de service;DEMANDE ÉCRAN PC;user12;Ordinateur (PC - Laptop);élevée;résolu;0;2026-02-18T07:40:37.734Z
+2026-02-0012;Demande de service;MISE A JOUR MODELE IMPRESSION BON DE TRAVAIL;user12;GMAO;élevée;résolu;0;2026-02-18T07:38:45.833Z
+2026-02-0011;Demande de service;Problème au niveau du port de connexion de mon PC;user18;Autre;élevée;résolu;0;2026-02-18T06:45:23.186Z
+2026-02-0010;Demande de service;Demande urgente d’ouverture d’accès pour modification des seuils GMAO;user2;GMAO;critique;annulé;1;2026-02-12T08:05:45.640Z
+2026-02-0008;Demande de service;problème de connexion wifi pour projection;user19;Ordinateur (PC - Laptop);moyenne;résolu;0;2026-02-11T06:44:46.878Z
+2026-02-0005;Demande de service;Connection Internet;user20;Préparation de salle de réunion;faible;résolu;0;2026-02-10T07:17:31.610Z
+2026-02-0004;Demande de service;Demande de déclôture du BT n°20009;user2;GMAO;critique;résolu;1;2026-02-09T13:41:40.851Z
+2026-02-0003;Demande de service;Installation Logiciel SPSS;user18;Logiciels standards;faible;résolu;0;2026-02-09T12:32:31.182Z
+2026-02-0002;Demande de service;demande d'accès serveur maintenance;user2;Ordinateur (PC - Laptop);moyenne;résolu;1;2026-02-09T08:26:02.348Z
+2026-07-0007;Demande de service;Erreur de synchronisation SAGE / MyCompany;user24;SAGE;élevée;nouveau;0;2026-07-09T14:55:00.854Z
+2026-07-0008;Proposition - Amélioration;Prise réseau murale défectueuse;user19;Matériel informatique (Switch, Câbles réseau, etc.);critique;résolu;0;2026-07-09T15:38:00.323Z
+2026-07-0009;Proposition - Amélioration;Bourrage papier récurrent imprimante RH;user18;Imprimante;moyenne;annulé;0;2026-07-09T17:52:00.703Z
+2026-07-0010;Demande de service;Droits de modification dossier Projets 2026;user23;Accès dossiers - fichiers;critique;en cours;0;2026-07-09T18:51:00.320Z
+2026-07-0011;Incident;Blocage sur la validation des commandes d'achat;user3;ERP;critique;résolu;0;2026-07-09T20:39:00.718Z
+2026-07-0012;Demande de service;Bloqué lors de l'accès au serveur de fichiers;user18;Accès dossiers - fichiers;faible;annulé;0;2026-07-09T23:20:00.400Z
+2026-07-0013;Proposition - Amélioration;Problème de micro en salle de conférence;user12;Préparation de salle de réunion;moyenne;résolu;0;2026-07-10T00:38:00.891Z
+2026-07-0014;Demande de service;Droits de modification dossier Projets 2026;user4;Accès dossiers - fichiers;critique;en cours;1;2026-07-10T02:31:00.266Z
+2026-07-0015;Incident;Réinitialisation du mot de passe de session;user22;Comptes utilisateurs;élevée;résolu;1;2026-07-10T03:34:00.646Z
+2026-07-0016;Demande de service;Demande de création de modèle de ticket;user15;GLPI;critique;en cours;2;2026-07-10T06:16:00.324Z
+2026-07-0017;Incident;Erreur de synchronisation SAGE / MyCompany;user8;SAGE;faible;en cours;1;2026-07-10T07:44:00.167Z
+2026-07-0018;Proposition - Amélioration;Installation nouvelle imprimante réseau;user7;Imprimante;critique;annulé;2;2026-07-10T10:01:00.246Z
+2026-07-0019;Demande de service;Droits de modification dossier Projets 2026;user24;Accès dossiers - fichiers;élevée;annulé;1;2026-07-10T12:03:00.470Z
+2026-07-0020;Demande de service;Changement de cartouche d'encre couleur;user3;Imprimante;faible;résolu;0;2026-07-10T15:03:00.263Z
+2026-07-0021;Proposition - Amélioration;Lenteur sur le module de facturation ERP;user20;ERP;faible;annulé;1;2026-07-10T17:55:00.579Z
+2026-07-0022;Incident;Installation du logiciel Acrobat Reader Pro;user22;Logiciels standards;faible;en cours;2;2026-07-10T19:42:00.214Z
+2026-07-0023;Incident;Droits de modification dossier Projets 2026;user15;Accès dossiers - fichiers;faible;en cours;1;2026-07-10T20:47:00.619Z
+2026-07-0024;Demande de service;Changement de bureau / déplacement matériel;user21;Autre;moyenne;nouveau;0;2026-07-10T21:48:00.652Z
+2026-07-0025;Proposition - Amélioration;Blocage sur la validation des commandes d'achat;user20;ERP;élevée;annulé;0;2026-07-10T22:36:00.471Z
+2026-07-0026;Incident;Assistance technique générale;user2;Autre;moyenne;résolu;0;2026-07-11T01:00:00.935Z
+2026-07-0027;Proposition - Amélioration;Problème de connexion au switch étage 2;user5;Matériel informatique (Switch, Câbles réseau, etc.);critique;nouveau;0;2026-07-11T03:35:00.993Z
+2026-07-0028;Incident;Demande de déblocage du bon de travail N°40512;user18;GMAO;moyenne;en cours;1;2026-07-11T05:30:00.548Z
+2026-07-0029;Proposition - Amélioration;Connexion Wi-Fi visiteurs défaillante;user4;Autre;moyenne;nouveau;0;2026-07-11T07:16:00.121Z
+2026-07-0030;Proposition - Amélioration;Demande de déblocage du bon de travail N°40512;user19;GMAO;moyenne;résolu;0;2026-07-11T07:51:00.334Z
+2026-07-0031;Demande de service;Câble Ethernet endommagé bureau 104;user3;Matériel informatique (Switch, Câbles réseau, etc.);moyenne;en cours;2;2026-07-11T10:15:00.319Z
+2026-07-0032;Demande de service;Problème d'ouverture des fichiers PDF;user8;Logiciels standards;critique;annulé;0;2026-07-11T10:59:00.199Z
+2026-07-0033;Incident;Ajout d'un nouvel utilisateur SAGE;user14;SAGE;critique;annulé;2;2026-07-11T11:32:00.789Z
+2026-07-0034;Proposition - Amélioration;Erreur de synchronisation SAGE / MyCompany;user2;SAGE;critique;en cours;0;2026-07-11T12:55:00.296Z
+2026-07-0035;Proposition - Amélioration;Changement de cartouche d'encre couleur;user5;Imprimante;critique;nouveau;0;2026-07-11T15:13:00.355Z
+2026-07-0036;Demande de service;Vérification du vidéoprojecteur Salle A;user18;Préparation de salle de réunion;faible;résolu;2;2026-07-11T17:51:00.956Z
+2026-07-0037;Demande de service;Écran bleu au démarrage;user6;Ordinateur (PC - Laptop);critique;annulé;1;2026-07-11T19:05:00.985Z
+2026-07-0038;Demande de service;Email suspect reçu / tentative de phishing;user13;Sécurité informatique;faible;annulé;0;2026-07-11T21:21:00.392Z
+2026-07-0039;Proposition - Amélioration;Demande de validation de logiciel sécurisé;user5;Sécurité informatique;moyenne;en cours;0;2026-07-11T21:55:00.693Z
+2026-07-0040;Proposition - Amélioration;Demande de création de modèle de ticket;user24;GLPI;élevée;résolu;0;2026-07-12T00:44:00.588Z
+2026-07-0041;Proposition - Amélioration;Erreur d'activation Microsoft Office;user2;Logiciels standards;faible;nouveau;0;2026-07-12T03:36:00.169Z
+2026-07-0042;Demande de service;Anomalie sur la saisie de facture de vente;user4;SAGE;moyenne;résolu;1;2026-07-12T04:16:00.529Z
+2026-07-0043;Proposition - Amélioration;Ajout d'un nouvel utilisateur SAGE;user9;SAGE;moyenne;en cours;0;2026-07-12T05:43:00.505Z
+2026-07-0044;Proposition - Amélioration;Souris optique défectueuse;user15;Accessoires (souris, clavier, écran, etc.);élevée;résolu;0;2026-07-12T08:00:00.736Z
+2026-07-0045;Demande de service;Erreur lors de la génération du rapport de maintenance;user18;GMAO;moyenne;en cours;0;2026-07-12T09:49:00.170Z
+2026-07-0046;Demande de service;Changement de bureau / déplacement matériel;user10;Autre;moyenne;annulé;1;2026-07-12T11:26:00.726Z
+2026-07-0047;Proposition - Amélioration;Blocage sur la validation des commandes d'achat;user22;ERP;élevée;résolu;0;2026-07-12T12:53:00.218Z
+2026-07-0048;Demande de service;Assistance technique générale;user9;Autre;élevée;nouveau;2;2026-07-12T14:40:00.308Z
+2026-07-0049;Proposition - Amélioration;Ajout d'un nouvel utilisateur SAGE;user17;SAGE;critique;en cours;0;2026-07-12T15:23:00.749Z
+2026-07-0050;Incident;Alerte antivirus sur le poste client;user1;Sécurité informatique;élevée;nouveau;2;2026-07-12T16:50:00.265Z
+2026-07-0051;Incident;Erreur d'accès à la plateforme GLPI;user23;GLPI;critique;résolu;0;2026-07-12T17:29:00.807Z
+2026-07-0052;Demande de service;Demande de câble d'alimentation supplémentaire;user12;Autre;moyenne;annulé;0;2026-07-12T17:59:00.415Z
+2026-07-0053;Demande de service;Blocage du compte utilisateur;user7;Comptes utilisateurs;moyenne;résolu;0;2026-07-12T20:42:00.995Z
+2026-07-0054;Proposition - Amélioration;Email suspect reçu / tentative de phishing;user8;Sécurité informatique;moyenne;nouveau;1;2026-07-12T21:08:00.283Z
+2026-07-0055;Incident;Mise à jour de l'inventaire GLPI;user22;GLPI;moyenne;en cours;0;2026-07-12T21:55:00.491Z
+2026-07-0056;Demande de service;Vérification du vidéoprojecteur Salle A;user8;Préparation de salle de réunion;moyenne;annulé;0;2026-07-12T23:33:00.940Z
+2026-07-0057;Incident;Port Switch défectueux baie B2;user29;Matériel informatique (Switch, Câbles réseau, etc.);moyenne;annulé;1;2026-07-13T09:50:00.962Z
+2026-07-0058;Incident;Impossibilité de réouvrir un ticket clos;user15;GLPI;moyenne;résolu;1;2026-07-13T10:25:00.213Z
+2026-07-0059;Demande de service;Incapacité d'ouvrir le dossier partagé Vente;user1;Accès dossiers - fichiers;critique;en cours;0;2026-07-13T11:40:00.357Z
+2026-07-0060;Incident;Problème de réinitialisation mot de passe;user24;Comptes utilisateurs;faible;en cours;0;2026-07-13T13:16:00.650Z
+2026-07-0061;Incident;Incapacité d'ouvrir le dossier partagé Vente;user5;Accès dossiers - fichiers;élevée;résolu;2;2026-07-13T14:28:00.472Z
+2026-07-0062;Incident;Dépassement du quota de boîte de réception;user13;Compte Outlook;critique;résolu;1;2026-07-13T15:57:00.921Z
+2026-07-0063;Proposition - Amélioration;Dysfonctionnement de la passerelle ERP / Comptabilité;user13;ERP;élevée;annulé;1;2026-07-13T17:23:00.625Z
+2026-07-0064;Demande de service;Erreur de licence Adobe Acrobat;user25;Logiciels standards;moyenne;résolu;2;2026-07-13T18:54:00.786Z
+2026-07-0065;Proposition - Amélioration;Remplacement d'un cordon de brassage;user16;Matériel informatique (Switch, Câbles réseau, etc.);moyenne;annulé;0;2026-07-13T21:07:00.224Z
+2026-07-0066;Proposition - Amélioration;Demande d'accès au module Gestion Commerciale;user22;SAGE;critique;en cours;1;2026-07-13T22:23:00.785Z
+2026-07-0067;Proposition - Amélioration;Incapacité d'ouvrir le dossier partagé Vente;user26;Accès dossiers - fichiers;critique;annulé;0;2026-07-13T23:25:00.951Z
+2026-07-0068;Demande de service;Demande d'accès en lecture au répertoire RH_Confidentiel;user5;Accès dossiers - fichiers;critique;annulé;0;2026-07-14T00:15:00.366Z
+2026-07-0069;Incident;Inventaire des équipements non mis à jour;user17;GLPI;critique;annulé;1;2026-07-14T02:04:00.134Z
+2026-07-0070;Incident;Réglage de la caméra de visioconférence;user15;Préparation de salle de réunion;faible;annulé;2;2026-07-14T04:00:00.903Z
+2026-07-0071;Incident;Lenteur du navigateur Web entreprise;user6;Logiciels standards;critique;annulé;0;2026-07-14T05:48:00.372Z
+2026-07-0072;Incident;Déplacement de matériel poste de travail bureau 202;user4;Autre;moyenne;annulé;0;2026-07-14T07:10:00.114Z
+2026-07-0073;Demande de service;Remplacement d'un cordon de brassage;user19;Matériel informatique (Switch, Câbles réseau, etc.);faible;nouveau;0;2026-07-14T07:50:00.735Z
+2026-07-0074;Proposition - Amélioration;Batterie ne charge plus au-delà de 20%;user22;Ordinateur (PC - Laptop);élevée;nouveau;0;2026-07-14T08:55:00.780Z
+2026-07-0075;Proposition - Amélioration;Rapport d'intervention introuvable;user23;GMAO;moyenne;nouveau;1;2026-07-14T10:35:00.234Z
+2026-07-0076;Proposition - Amélioration;Anomalie d'exportation CSV GMAO;user3;GMAO;critique;nouveau;0;2026-07-14T12:40:00.901Z
+2026-07-0077;Proposition - Amélioration;Déplacement de matériel poste de travail bureau 202;user17;Autre;critique;annulé;0;2026-07-14T14:11:00.926Z
+2026-07-0078;Incident;Remplacement du tambour imprimante Comptabilité;user4;Imprimante;critique;résolu;0;2026-07-14T16:22:00.455Z
+2026-07-0079;Incident;Problème de connexion à la base SAGE 100;user1;SAGE;critique;en cours;2;2026-07-14T17:25:00.560Z
+2026-07-0080;Demande de service;Problème de réinitialisation mot de passe;user15;Comptes utilisateurs;moyenne;nouveau;1;2026-07-14T18:56:00.311Z
+2026-07-0081;Proposition - Amélioration;Demande d'autorisation clé USB sécurisée;user15;Sécurité informatique;moyenne;résolu;1;2026-07-14T20:12:00.134Z
+2026-07-0082;Proposition - Amélioration;Code d'erreur papier bloqué bac 2;user2;Imprimante;faible;annulé;2;2026-07-14T21:01:00.595Z
+2026-07-0083;Proposition - Amélioration;Problème de notification par email sur GLPI;user5;GLPI;moyenne;nouveau;0;2026-07-14T22:50:00.964Z
+2026-07-0084;Incident;Problème de scintillement écran principal;user14;Accessoires (souris, clavier, écran, etc.);critique;résolu;1;2026-07-14T23:54:00.291Z
+2026-07-0085;Demande de service;Modification des privilèges Active Directory;user15;Comptes utilisateurs;critique;annulé;0;2026-07-15T01:18:00.281Z
+2026-07-0086;Proposition - Amélioration;Problème de réinitialisation mot de passe;user15;Comptes utilisateurs;faible;en cours;0;2026-07-15T03:31:00.319Z
+2026-07-0087;Demande de service;Remplacement du tambour imprimante Comptabilité;user29;Imprimante;critique;en cours;1;2026-07-15T05:05:00.902Z
+2026-07-0088;Proposition - Amélioration;Assistance configuration Teams Room Salle Conseil;user1;Préparation de salle de réunion;élevée;nouveau;0;2026-07-15T06:41:00.803Z
+2026-07-0089;Proposition - Amélioration;Saisie des heures de maintenance impossible;user4;GMAO;élevée;nouveau;1;2026-07-15T07:43:00.676Z
+2026-07-0090;Proposition - Amélioration;Droits d'écriture dossier Achats_2026;user4;Accès dossiers - fichiers;élevée;résolu;1;2026-07-15T08:29:00.208Z
+2026-07-0091;Demande de service;Lenteur d'exécution lors du calcul des paies;user24;SAGE;moyenne;résolu;1;2026-07-15T09:34:00.383Z
+2026-07-0092;Demande de service;Anomalie d'exportation CSV GMAO;user11;GMAO;moyenne;en cours;0;2026-07-15T10:07:00.114Z
+2026-07-0093;Incident;Avertissement de certificat expiré sur intranet;user1;Sécurité informatique;faible;résolu;0;2026-07-15T10:34:00.417Z
+2026-07-0094;Demande de service;Lien réseau instable bureau Logistique;user11;Matériel informatique (Switch, Câbles réseau, etc.);critique;résolu;1;2026-07-15T11:39:00.722Z
+2026-07-0095;Proposition - Amélioration;Qualité d'impression très dégradée / traces;user14;Imprimante;faible;en cours;1;2026-07-15T13:31:00.357Z
+2026-07-0096;Incident;Demande d'autorisation clé USB sécurisée;user2;Sécurité informatique;critique;résolu;0;2026-07-15T15:24:00.438Z
+2026-07-0097;Proposition - Amélioration;Demande d'accès en lecture au répertoire RH_Confidentiel;user10;Accès dossiers - fichiers;critique;en cours;1;2026-07-15T17:44:00.120Z
+2026-07-0098;Incident;Erreur de licence Adobe Acrobat;user18;Logiciels standards;faible;résolu;0;2026-07-15T19:28:00.225Z
+2026-07-0099;Demande de service;Câble RJ45 sectionné atelier 3;user17;Matériel informatique (Switch, Câbles réseau, etc.);élevée;en cours;0;2026-07-15T20:47:00.692Z
+2026-07-0100;Incident;Remplacement adaptateur DisplayPort / HDMI;user13;Accessoires (souris, clavier, écran, etc.);critique;nouveau;1;2026-07-15T22:36:00.324Z
+2026-07-0101;Demande de service;Blocage sur le module de gestion des stocks;user18;ERP;faible;annulé;0;2026-07-16T00:41:00.251Z
+2026-07-0102;Demande de service;Remplacement du tambour imprimante Comptabilité;user9;Imprimante;critique;annulé;0;2026-07-16T01:46:00.241Z
+2026-07-0103;Proposition - Amélioration;Problème de connexion à la base SAGE 100;user27;SAGE;moyenne;résolu;2;2026-07-16T04:01:00.943Z
+2026-07-0104;Incident;Demande d'installation 7-Zip;user21;Logiciels standards;élevée;résolu;2;2026-07-16T06:13:00.111Z
+2026-07-0105;Demande de service;Demande d'accès au module Gestion Commerciale;user2;SAGE;moyenne;nouveau;2;2026-07-16T08:33:00.992Z
+2026-07-0106;Proposition - Amélioration;Demande d'autorisation clé USB sécurisée;user26;Sécurité informatique;moyenne;en cours;0;2026-07-16T10:48:00.305Z
+2026-07-0107;Demande de service;Boîte mail pleine / dépassement de quota;user16;Compte Outlook;faible;en cours;0;2026-07-16T12:54:00.472Z
+2026-07-0108;Incident;Erreur lors de l'impression du journal de banque;user22;SAGE;moyenne;annulé;1;2026-07-16T13:37:00.698Z
+2026-07-0109;Incident;Rapport d'intervention introuvable;user29;GMAO;critique;annulé;0;2026-07-16T15:44:00.715Z
+2026-07-0110;Incident;Demande d'installation 7-Zip;user2;Logiciels standards;élevée;en cours;1;2026-07-16T17:13:00.679Z
+2026-07-0111;Proposition - Amélioration;Détection de comportement suspect sur poste client;user21;Sécurité informatique;critique;annulé;0;2026-07-16T18:28:00.932Z
+2026-07-0112;Incident;Erreur lors de l'impression du journal de banque;user10;SAGE;moyenne;annulé;1;2026-07-16T20:37:00.150Z
+2026-07-0113;Proposition - Amélioration;Rapport d'intervention introuvable;user11;GMAO;élevée;annulé;1;2026-07-16T21:45:00.673Z
+2026-07-0114;Demande de service;Réglage de la caméra de visioconférence;user25;Préparation de salle de réunion;faible;en cours;0;2026-07-16T23:29:00.762Z
+2026-07-0115;Proposition - Amélioration;Droits d'écriture dossier Achats_2026;user25;Accès dossiers - fichiers;faible;résolu;0;2026-07-17T01:00:00.882Z
+2026-07-0116;Incident;Avertissement de certificat expiré sur intranet;user27;Sécurité informatique;critique;nouveau;1;2026-07-17T03:07:00.508Z
+2026-07-0117;Demande de service;Demande d'informations sur la charte informatique;user27;Autre;moyenne;nouveau;2;2026-07-17T05:15:00.189Z
+2026-07-0118;Incident;Réglage de la caméra de visioconférence;user9;Préparation de salle de réunion;élevée;annulé;1;2026-07-17T07:30:00.716Z
+2026-07-0119;Incident;Problème d'ouverture des fichiers Excel lourds;user29;Logiciels standards;élevée;annulé;2;2026-07-17T09:42:00.700Z
+2026-07-0120;Proposition - Amélioration;Demande d'accès en lecture au répertoire RH_Confidentiel;user11;Accès dossiers - fichiers;moyenne;résolu;0;2026-07-17T11:48:00.251Z
+2026-07-0121;Proposition - Amélioration;Code d'erreur papier bloqué bac 2;user22;Imprimante;critique;résolu;0;2026-07-17T12:38:00.974Z
+2026-07-0122;Demande de service;Problème d'affichage sans fil Barco ClickShare;user12;Préparation de salle de réunion;faible;en cours;1;2026-07-17T14:16:00.602Z
+2026-07-0123;Proposition - Amélioration;Port Switch défectueux baie B2;user15;Matériel informatique (Switch, Câbles réseau, etc.);moyenne;résolu;0;2026-07-17T15:35:00.326Z
+2026-07-0124;Incident;Saisie des heures de maintenance impossible;user8;GMAO;élevée;résolu;1;2026-07-17T17:34:00.196Z
+2026-07-0125;Proposition - Amélioration;Remplacement du tambour imprimante Comptabilité;user27;Imprimante;faible;nouveau;0;2026-07-17T18:01:00.271Z
+2026-07-0126;Incident;Mise en place visioconférence pour réunion de direction;user28;Préparation de salle de réunion;critique;en cours;0;2026-07-17T19:43:00.388Z
+2026-07-0127;Incident;Problème d'affichage sans fil Barco ClickShare;user13;Préparation de salle de réunion;faible;nouveau;0;2026-07-17T20:34:00.169Z
+2026-07-0128;Demande de service;Problème de scintillement écran principal;user4;Accessoires (souris, clavier, écran, etc.);faible;annulé;1;2026-07-17T21:45:00.623Z
+2026-07-0129;Demande de service;Demande d'installation 7-Zip;user3;Logiciels standards;moyenne;nouveau;1;2026-07-17T23:12:00.614Z
+2026-07-0130;Demande de service;Câble RJ45 sectionné atelier 3;user1;Matériel informatique (Switch, Câbles réseau, etc.);faible;résolu;1;2026-07-18T01:23:00.844Z
+2026-07-0131;Incident;Déplacement de matériel poste de travail bureau 202;user26;Autre;moyenne;annulé;1;2026-07-18T02:23:00.927Z
+2026-07-0132;Demande de service;Réinitialisation du mot de passe de session;user15;Comptes utilisateurs;critique;en cours;2;2026-07-18T03:56:00.814Z
+2026-07-0133;Incident;Surchauffe ventilateur PC portable;user28;Ordinateur (PC - Laptop);élevée;résolu;1;2026-07-18T05:53:00.842Z
+2026-07-0134;Demande de service;Problème d'archivage automatique des emails;user10;Compte Outlook;critique;en cours;1;2026-07-18T07:25:00.316Z
+2026-07-0135;Demande de service;Boîte mail pleine / dépassement de quota;user2;Compte Outlook;critique;en cours;2;2026-07-18T09:12:00.442Z
+2026-07-0136;Incident;Restauration version précédente fichier Excel;user22;Accès dossiers - fichiers;moyenne;résolu;0;2026-07-18T11:00:00.187Z
+2026-07-0137;Incident;Erreur lors de l'impression du journal de banque;user8;SAGE;élevée;annulé;0;2026-07-18T12:59:00.108Z
+2026-07-0138;Proposition - Amélioration;Erreur lors de la génération du rapport de maintenance;user24;GMAO;élevée;résolu;0;2026-07-18T14:16:00.577Z
+2026-07-0139;Incident;Problème de notification par email sur GLPI;user11;GLPI;moyenne;résolu;1;2026-07-18T16:27:00.211Z
+2026-07-0140;Incident;Saisie des heures de maintenance impossible;user20;GMAO;élevée;en cours;0;2026-07-18T17:34:00.544Z
+2026-07-0141;Incident;Demande de création de modèle de ticket;user3;GLPI;élevée;annulé;0;2026-07-18T18:44:00.305Z
+2026-07-0142;Proposition - Amélioration;Dysfonctionnement du calendrier partagé;user5;Compte Outlook;moyenne;nouveau;0;2026-07-18T19:18:00.493Z
+2026-07-0143;Incident;Impossibilité de réouvrir un ticket clos;user5;GLPI;moyenne;en cours;0;2026-07-18T19:50:00.708Z
+2026-07-0144;Incident;Lenteur du navigateur Web entreprise;user1;Logiciels standards;élevée;annulé;1;2026-07-18T20:41:00.869Z
+2026-07-0145;Demande de service;Lenteur du navigateur Web entreprise;user21;Logiciels standards;critique;annulé;0;2026-07-18T22:36:00.298Z
+2026-07-0146;Demande de service;Détection de comportement suspect sur poste client;user27;Sécurité informatique;faible;annulé;1;2026-07-18T23:53:00.783Z
+2026-07-0147;Proposition - Amélioration;Réinitialisation du mot de passe de session;user27;Comptes utilisateurs;élevée;nouveau;2;2026-07-19T01:11:00.717Z
+2026-07-0148;Demande de service;Demande d'autorisation clé USB sécurisée;user4;Sécurité informatique;faible;résolu;1;2026-07-19T02:29:00.790Z
+2026-07-0149;Incident;Lenteur excessive du PC portable;user8;Ordinateur (PC - Laptop);moyenne;en cours;1;2026-07-19T03:50:00.584Z
+2026-07-0150;Proposition - Amélioration;Problème d'archivage automatique des emails;user27;Compte Outlook;élevée;en cours;2;2026-07-19T04:28:00.197Z
+2026-07-0151;Proposition - Amélioration;Problème d'archivage automatique des emails;user4;Compte Outlook;élevée;en cours;0;2026-07-19T06:05:00.857Z
+2026-07-0152;Demande de service;Boîte mail pleine / dépassement de quota;user1;Compte Outlook;élevée;résolu;0;2026-07-19T08:14:00.547Z
+2026-07-0153;Demande de service;Batterie ne charge plus au-delà de 20%;user16;Ordinateur (PC - Laptop);faible;nouveau;0;2026-07-19T09:32:00.347Z
+2026-07-0154;Proposition - Amélioration;Code d'erreur papier bloqué bac 2;user3;Imprimante;élevée;annulé;0;2026-07-19T10:02:00.722Z
+2026-07-0155;Proposition - Amélioration;Réinitialisation du mot de passe de session;user13;Comptes utilisateurs;critique;nouveau;1;2026-07-19T11:40:00.227Z
+2026-07-0156;Incident;Alerte antivirus sur le poste client;user16;Sécurité informatique;moyenne;annulé;0;2026-07-19T12:11:00.730Z
+2026-07-0157;Proposition - Amélioration;Demande d'accès au dossier Partage_Compta;user11;Accès dossiers - fichiers;moyenne;annulé;0;2026-07-19T13:12:00.528Z
+2026-07-0158;Incident;Problème d'archivage automatique des emails;user19;Compte Outlook;élevée;annulé;0;2026-07-19T14:21:00.306Z
+2026-07-0159;Demande de service;Dépassement du quota de boîte de réception;user27;Compte Outlook;faible;en cours;0;2026-07-19T15:19:00.185Z
+2026-07-0160;Proposition - Amélioration;Problème de réinitialisation mot de passe;user23;Comptes utilisateurs;moyenne;annulé;1;2026-07-19T15:59:00.836Z
+2026-07-0161;Proposition - Amélioration;Remplacement de câble d'alimentation moniteur;user17;Autre;faible;annulé;0;2026-07-19T17:01:00.616Z
+2026-07-0162;Proposition - Amélioration;Lenteur excessive du PC portable;user4;Ordinateur (PC - Laptop);moyenne;résolu;0;2026-07-19T18:10:00.959Z
+2026-07-0163;Proposition - Amélioration;Problème d'ouverture des fichiers Excel lourds;user12;Logiciels standards;élevée;nouveau;0;2026-07-19T20:03:00.154Z
+2026-07-0164;Proposition - Amélioration;Non-réception des mails externes;user14;Compte Outlook;faible;nouveau;1;2026-07-19T21:22:00.915Z
+2026-07-0165;Demande de service;Erreur lors de la génération du rapport de maintenance;user8;GMAO;moyenne;nouveau;0;2026-07-19T22:02:00.878Z
+2026-07-0166;Incident;Blocage sur la validation des commandes d'achat;user12;ERP;critique;nouveau;1;2026-07-19T22:46:00.286Z
+2026-07-0167;Incident;Restauration version précédente fichier Excel;user10;Accès dossiers - fichiers;moyenne;nouveau;0;2026-07-20T00:09:00.679Z
+2026-07-0168;Demande de service;Demande d'installation 7-Zip;user18;Logiciels standards;élevée;annulé;1;2026-07-20T01:47:00.677Z
+2026-07-0169;Incident;Blocage sur le module de gestion des stocks;user16;ERP;critique;annulé;0;2026-07-20T03:22:00.492Z
+2026-07-0170;Proposition - Amélioration;Erreur de synchronisation SAGE / MyCompany;user2;SAGE;élevée;résolu;0;2026-07-20T04:28:00.920Z
+2026-07-0171;Incident;Anomalie d'exportation CSV GMAO;user24;GMAO;moyenne;en cours;0;2026-07-20T05:12:00.512Z
+2026-07-0172;Demande de service;Clavier du laptop réagit mal aux touches;user13;Ordinateur (PC - Laptop);moyenne;résolu;0;2026-07-20T06:27:00.254Z
+2026-07-0173;Demande de service;Droits d'écriture dossier Achats_2026;user23;Accès dossiers - fichiers;critique;nouveau;0;2026-07-20T07:51:00.284Z
+2026-07-0174;Incident;Restauration version précédente fichier Excel;user4;Accès dossiers - fichiers;élevée;en cours;0;2026-07-20T08:38:00.914Z
+2026-07-0175;Incident;Impossibilité de réouvrir un ticket clos;user7;GLPI;critique;nouveau;0;2026-07-20T09:03:00.577Z
+2026-07-0176;Demande de service;Alerte antivirus sur le poste client;user12;Sécurité informatique;élevée;annulé;0;2026-07-20T10:01:00.259Z
+2026-07-0177;Demande de service;Droits d'écriture dossier Achats_2026;user8;Accès dossiers - fichiers;élevée;résolu;0;2026-07-20T10:31:00.980Z
+2026-07-0178;Demande de service;Validation d'authenticité d'un e-mail reçu;user1;Sécurité informatique;moyenne;résolu;0;2026-07-20T11:27:00.423Z
+2026-07-0179;Incident;Boîte mail pleine / dépassement de quota;user10;Compte Outlook;faible;en cours;1;2026-07-20T13:06:00.763Z
+2026-07-0180;Demande de service;Configuration impression recto-verso automatique;user19;Imprimante;faible;annulé;2;2026-07-20T13:40:00.431Z
+2026-07-0181;Demande de service;Validation d'authenticité d'un e-mail reçu;user12;Sécurité informatique;moyenne;résolu;0;2026-07-20T14:29:00.827Z
+2026-07-0182;Incident;Inventaire des équipements non mis à jour;user19;GLPI;faible;annulé;0;2026-07-20T15:12:00.826Z
+2026-07-0183;Proposition - Amélioration;Avertissement de certificat expiré sur intranet;user11;Sécurité informatique;élevée;résolu;0;2026-07-20T16:47:00.175Z
+2026-07-0184;Demande de service;Rapport d'intervention introuvable;user19;GMAO;moyenne;résolu;1;2026-07-20T17:51:00.627Z
+2026-07-0185;Incident;Port Switch défectueux baie B2;user12;Matériel informatique (Switch, Câbles réseau, etc.);critique;en cours;0;2026-07-20T19:55:00.789Z
+2026-07-0186;Demande de service;Déblocage suite à 3 tentatives erronées;user17;Comptes utilisateurs;faible;annulé;0;2026-07-20T20:32:00.476Z
+2026-07-0187;Proposition - Amélioration;Blocage sur la validation des commandes d'achat;user20;ERP;moyenne;annulé;0;2026-07-20T22:24:00.799Z
+2026-07-0188;Incident;Erreur lors de l'impression du journal de banque;user15;SAGE;moyenne;nouveau;0;2026-07-20T23:58:00.811Z
+2026-07-0189;Demande de service;Anomalie d'exportation CSV GMAO;user20;GMAO;faible;annulé;1;2026-07-21T00:27:00.495Z
+2026-07-0190;Demande de service;Inventaire des équipements non mis à jour;user14;GLPI;élevée;résolu;2;2026-07-21T01:30:00.637Z
+2026-07-0191;Proposition - Amélioration;Problème de connexion à la base SAGE 100;user1;SAGE;critique;en cours;1;2026-07-21T02:06:00.128Z
+2026-07-0192;Proposition - Amélioration;Surchauffe ventilateur PC portable;user22;Ordinateur (PC - Laptop);moyenne;annulé;0;2026-07-21T03:49:00.330Z
+2026-07-0193;Proposition - Amélioration;Problème de réinitialisation mot de passe;user3;Comptes utilisateurs;élevée;résolu;1;2026-07-21T04:20:00.673Z
+2026-07-0194;Incident;Erreur d'activation Microsoft Office;user20;Logiciels standards;critique;résolu;1;2026-07-21T06:12:00.102Z
+2026-07-0195;Incident;Réglage de la caméra de visioconférence;user14;Préparation de salle de réunion;moyenne;nouveau;0;2026-07-21T08:05:00.968Z
+2026-07-0196;Incident;Code d'erreur papier bloqué bac 2;user28;Imprimante;critique;annulé;1;2026-07-21T09:01:00.791Z
+2026-07-0197;Incident;Erreur d'activation Microsoft Office;user22;Logiciels standards;faible;nouveau;2;2026-07-21T10:01:00.879Z
+2026-07-0198;Proposition - Amélioration;Problème de scintillement écran principal;user4;Accessoires (souris, clavier, écran, etc.);faible;résolu;1;2026-07-21T10:48:00.862Z
+2026-07-0199;Proposition - Amélioration;Lien réseau instable bureau Logistique;user8;Matériel informatique (Switch, Câbles réseau, etc.);faible;annulé;0;2026-07-21T11:49:00.132Z
+2026-07-0200;Demande de service;Remplacement de câble d'alimentation moniteur;user13;Autre;élevée;résolu;0;2026-07-21T13:23:00.453Z
+2026-07-0201;Proposition - Amélioration;Déblocage suite à 3 tentatives erronées;user27;Comptes utilisateurs;moyenne;nouveau;2;2026-07-21T15:27:00.652Z
+2026-07-0202;Proposition - Amélioration;Lien réseau instable bureau Logistique;user23;Matériel informatique (Switch, Câbles réseau, etc.);faible;annulé;0;2026-07-21T17:18:00.828Z
+2026-07-0203;Incident;Restauration version précédente fichier Excel;user16;Accès dossiers - fichiers;moyenne;annulé;0;2026-07-21T19:33:00.533Z
+2026-07-0204;Proposition - Amélioration;Lien réseau instable bureau Logistique;user26;Matériel informatique (Switch, Câbles réseau, etc.);critique;nouveau;0;2026-07-21T20:15:00.214Z
+2026-07-0205;Proposition - Amélioration;Saisie des heures de maintenance impossible;user3;GMAO;moyenne;annulé;0;2026-07-21T21:02:00.455Z
+2026-07-0206;Demande de service;Remplacement du tambour imprimante Comptabilité;user22;Imprimante;élevée;résolu;0;2026-07-21T21:39:00.748Z
+2026-07-0207;Incident;Problème de scintillement écran principal;user10;Accessoires (souris, clavier, écran, etc.);élevée;annulé;1;2026-07-21T22:44:00.186Z
+2026-07-0208;Incident;Déplacement de matériel poste de travail bureau 202;user29;Autre;faible;nouveau;0;2026-07-21T23:51:00.401Z
+2026-07-0209;Incident;Lenteur excessive du PC portable;user18;Ordinateur (PC - Laptop);élevée;nouveau;0;2026-07-22T02:03:00.492Z
+2026-07-0210;Demande de service;Création de profil pour nouveau stagiaire;user21;Comptes utilisateurs;faible;annulé;2;2026-07-22T03:30:00.712Z
+2026-07-0211;Proposition - Amélioration;Qualité d'impression très dégradée / traces;user29;Imprimante;faible;en cours;0;2026-07-22T05:33:00.782Z
+2026-07-0212;Incident;Problème d'ouverture des fichiers Excel lourds;user5;Logiciels standards;moyenne;nouveau;0;2026-07-22T06:44:00.729Z
+2026-07-0213;Demande de service;Rapport d'intervention introuvable;user12;GMAO;moyenne;nouveau;0;2026-07-22T07:54:00.795Z
+2026-07-0214;Demande de service;Erreur lors de la génération du rapport de maintenance;user8;GMAO;élevée;nouveau;2;2026-07-22T08:36:00.991Z
+2026-07-0215;Incident;Anomalie d'exportation CSV GMAO;user3;GMAO;faible;annulé;0;2026-07-22T10:14:00.931Z
+2026-07-0216;Proposition - Amélioration;Dysfonctionnement du calendrier partagé;user11;Compte Outlook;critique;en cours;0;2026-07-22T11:27:00.811Z
+2026-07-0217;Incident;Port Switch défectueux baie B2;user8;Matériel informatique (Switch, Câbles réseau, etc.);critique;annulé;2;2026-07-22T13:35:00.415Z
+2026-07-0218;Proposition - Amélioration;Demande de création de modèle de ticket;user15;GLPI;critique;annulé;2;2026-07-22T15:23:00.903Z
+2026-07-0219;Demande de service;Erreur lors de l'impression du journal de banque;user19;SAGE;faible;en cours;0;2026-07-22T16:51:00.235Z
+2026-07-0220;Proposition - Amélioration;Déplacement de matériel poste de travail bureau 202;user11;Autre;critique;en cours;0;2026-07-22T18:13:00.864Z
+2026-07-0221;Proposition - Amélioration;Mise en place visioconférence pour réunion de direction;user13;Préparation de salle de réunion;faible;nouveau;0;2026-07-22T18:43:00.209Z
+2026-07-0222;Demande de service;Réglage de la caméra de visioconférence;user13;Préparation de salle de réunion;élevée;annulé;1;2026-07-22T20:20:00.800Z
+2026-07-0223;Proposition - Amélioration;Erreur de synchronisation SAGE / MyCompany;user14;SAGE;critique;en cours;0;2026-07-22T21:26:00.949Z
+2026-07-0224;Incident;Problème de connexion à la base SAGE 100;user27;SAGE;moyenne;en cours;1;2026-07-22T23:15:00.955Z
+2026-07-0225;Incident;Écran noir après mise à jour;user19;Ordinateur (PC - Laptop);moyenne;annulé;0;2026-07-22T23:43:00.655Z
+2026-07-0226;Incident;Souris sans fil ne se connecte plus;user18;Accessoires (souris, clavier, écran, etc.);faible;annulé;0;2026-07-23T01:48:00.624Z
+2026-07-0227;Proposition - Amélioration;Mise en place visioconférence pour réunion de direction;user12;Préparation de salle de réunion;faible;en cours;0;2026-07-23T03:05:00.699Z
+2026-07-0228;Incident;Blocage sur le module de gestion des stocks;user10;ERP;critique;annulé;0;2026-07-23T04:26:00.627Z
+2026-07-0229;Demande de service;Problème de notification par email sur GLPI;user26;GLPI;élevée;résolu;1;2026-07-23T06:03:00.242Z
+2026-07-0230;Demande de service;Demande d'accès au module Gestion Commerciale;user24;SAGE;critique;nouveau;0;2026-07-23T07:05:00.468Z
+2026-07-0231;Demande de service;Impossibilité de réouvrir un ticket clos;user10;GLPI;élevée;nouveau;0;2026-07-23T08:15:00.341Z
+2026-07-0232;Incident;Création de profil pour nouveau stagiaire;user17;Comptes utilisateurs;critique;résolu;0;2026-07-23T08:45:00.758Z
+2026-07-0233;Incident;Anomalie d'exportation CSV GMAO;user22;GMAO;faible;en cours;0;2026-07-23T10:12:00.832Z
+2026-07-0234;Demande de service;Déblocage suite à 3 tentatives erronées;user7;Comptes utilisateurs;faible;nouveau;2;2026-07-23T11:39:00.344Z
+2026-07-0235;Demande de service;Droits d'écriture dossier Achats_2026;user26;Accès dossiers - fichiers;moyenne;nouveau;0;2026-07-23T13:29:00.377Z
+2026-07-0236;Demande de service;Remplacement de câble d'alimentation moniteur;user28;Autre;critique;résolu;1;2026-07-23T15:01:00.744Z
+2026-07-0237;Demande de service;Demande d'un second écran de travail;user4;Accessoires (souris, clavier, écran, etc.);faible;résolu;1;2026-07-23T16:00:00.957Z
+2026-07-0238;Incident;Code d'erreur papier bloqué bac 2;user5;Imprimante;critique;annulé;0;2026-07-23T17:14:00.292Z
+2026-07-0239;Proposition - Amélioration;Demande d'augmentation RAM poste travail;user14;Ordinateur (PC - Laptop);moyenne;nouveau;1;2026-07-23T19:23:00.538Z
+2026-07-0240;Proposition - Amélioration;Demande d'un second écran de travail;user10;Accessoires (souris, clavier, écran, etc.);critique;annulé;1;2026-07-23T20:34:00.453Z
+2026-07-0241;Incident;Dysfonctionnement du calendrier partagé;user2;Compte Outlook;élevée;nouveau;1;2026-07-23T22:39:00.494Z
+2026-07-0242;Incident;Configuration impression recto-verso automatique;user25;Imprimante;élevée;nouveau;2;2026-07-24T00:40:00.596Z
+2026-07-0243;Proposition - Amélioration;Demande d'informations sur la charte informatique;user15;Autre;critique;annulé;0;2026-07-24T01:37:00.248Z
+2026-07-0244;Proposition - Amélioration;Avertissement de certificat expiré sur intranet;user24;Sécurité informatique;élevée;annulé;2;2026-07-24T03:37:00.782Z
+2026-07-0245;Proposition - Amélioration;Souris sans fil ne se connecte plus;user15;Accessoires (souris, clavier, écran, etc.);critique;en cours;0;2026-07-24T04:06:00.395Z
+2026-07-0246;Proposition - Amélioration;Demande de création de modèle de ticket;user24;GLPI;faible;en cours;2;2026-07-24T05:09:00.185Z
+2026-07-0247;Demande de service;Assistance configuration Teams Room Salle Conseil;user6;Préparation de salle de réunion;faible;en cours;1;2026-07-24T05:39:00.479Z
+2026-07-0248;Demande de service;Modification des privilèges Active Directory;user1;Comptes utilisateurs;faible;annulé;0;2026-07-24T07:01:00.794Z
+2026-07-0249;Proposition - Amélioration;Blocage sur le module de gestion des stocks;user15;ERP;moyenne;en cours;0;2026-07-24T08:17:00.255Z
+2026-07-0250;Proposition - Amélioration;Déplacement de matériel poste de travail bureau 202;user13;Autre;élevée;annulé;1;2026-07-24T10:20:00.241Z
+2026-07-0251;Incident;Droits d'écriture dossier Achats_2026;user26;Accès dossiers - fichiers;élevée;annulé;0;2026-07-24T12:03:00.691Z
+2026-07-0252;Demande de service;Impossibilité de réouvrir un ticket clos;user15;GLPI;moyenne;en cours;0;2026-07-24T12:54:00.139Z
+2026-07-0253;Demande de service;Demande de station d'accueil USB-C;user25;Accessoires (souris, clavier, écran, etc.);critique;en cours;0;2026-07-24T13:59:00.614Z
+2026-07-0254;Proposition - Amélioration;Demande d'accès au module Gestion Commerciale;user27;SAGE;élevée;résolu;1;2026-07-24T14:35:00.367Z
+2026-07-0255;Proposition - Amélioration;Droits d'écriture dossier Achats_2026;user5;Accès dossiers - fichiers;critique;nouveau;0;2026-07-24T15:58:00.648Z
+2026-07-0256;Proposition - Amélioration;Demande d'informations sur la charte informatique;user23;Autre;moyenne;résolu;0;2026-07-24T17:19:00.485Z
